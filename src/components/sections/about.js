@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Coding', 'Pen Testing', 'Gaming', 'Movies', 'Trying out new things'];
+  const skills = ['Coding', 'Pen Testing', 'Gaming', 'Movies', 'HomeLab', 'Trying out new things'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,9 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Khizar, a high school junior from Sugar Land, TX, graduating early
-              in 2025. I'm passionate about red teaming in cybersecurity, which I've been exploring
-              for 2 years, and I'm always eager to learn anything new I come across.
+              Hello! My name is Khizar, a high school junior in TX, graduating early in 2025. I'm
+              passionate about red teaming in cybersecurity, which I've been exploring for 2 years,
+              and I'm always eager to learn anything new I come across.
             </p>
 
             <p>

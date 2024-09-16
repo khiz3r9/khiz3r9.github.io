@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'khiz3r9@gmail.com',
 
   socialMedia: [
     {
@@ -30,7 +30,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Achievements',
       url: '/#jobs',
     },
     {

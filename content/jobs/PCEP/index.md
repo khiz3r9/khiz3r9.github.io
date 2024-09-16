@@ -1,7 +1,7 @@
 ---
 date: '2023-08-28'
 title: 'Python Institute'
-company: 'Python Institute'
+company: 'PCEP'
 location: 'Remote'
 range: '2023 - ∞'
 url: 'https://verify.openedg.org/?id=gsBW.Wq4R.Hcdd'
